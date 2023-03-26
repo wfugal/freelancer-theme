@@ -27,8 +27,8 @@ contact: static
 color:
   primary: D96846 #salmon
   #primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 596235 #Leaf Green
-  secondary-dark: 2F3020 #Dark Green
+  secondary: 2F3020 #Dark Green
+  secondary-dark: 596235 #Leaf Green
 
 # Footer settings
 footer:
