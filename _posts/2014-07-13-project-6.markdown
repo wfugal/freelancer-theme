@@ -1,11 +1,15 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: Cozy Up
+date: 2023-03-26
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: Fall 2023
+client: Close To My Heart
+category: Illustration and Design
+description: Challenge: Fall, but with books. Also without using the word Fall, sweater, cozy, or anything else that wouldn’t make sense in the International market.
+Role: Take the inspiration found by the Art Director and IPC team and create a suite of six 12”x12” patterned papers, a sticker sheet, several stamp sets, digital art, and a coordinating accessory. 
+Process: I always start with my own research phase regardless of whether or not I was given inspiration by my team. It takes a moment for me to get comfortable with a new project and wrap my head around what is wanted. Next, it is time to start drawing. I like to draw as many icons as I can think of that may be needed. For this project I drew the shapes in Adobe Illustrator, brought them into Adobe Photoshop where I added shading and texture. I also create a collection of words, titles, and typography to be used further down the line. Then it is time to start the pattern process. I like to take all the elements I have created so far and come up with 20-30 patterns from which to choose. After designing an abundance of artwork it is time to start paring down the collection. Sometimes my favorite options don’t make the cut, such as this tossed mushroom page. After a few more tweaks, color changes, and alterations the final artwork heads up the line for final approval. This whole process is then repeated for coordinating stamps, and other collateral.  
+Outcome: Despite the original direction that I was not to use the word “cozy” this kit was in fact called “Cozy Up”—a decision made by those above me. The name perfectly describes the concepts embodied in this kit. So, grab a warm drink, a book, and get cozy.
+
 ---
