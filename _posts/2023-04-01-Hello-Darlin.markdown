@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-04-01
-img: hellodarlin-beautyshot.png
+img: hellodarlinbeautyshot.png
 alt: image-alt
 project-date: April 2023
 client: Close To My Heart
